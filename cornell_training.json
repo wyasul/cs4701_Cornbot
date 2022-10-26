@@ -1,0 +1,26 @@
+{"intents": [
+  {"tag":"add",
+    "patterns": ["When is the add deadline this semester?", "When is the add deadline?", "When is the latest I can add a course?"],
+    "responses": ["Add deadline is September 6th.", "September 6th."]
+  },
+  {"tag":"drop",
+    "patterns": ["When is the drop deadline this semester?", "When is the drop deadline?", "When is the latest I can drop a course?"],
+    "responses": ["Drop deadline is October 17th", "October 17th."]
+  },
+  {"tag":"fall break",
+    "patterns": ["When is fall break?", "How long until fall break?", "Fall break"],
+    "responses": ["Fall break is October 8th. Classes resume on the 12th.", "October 8th-12th", "Starts on October 8th, ends on October 12th."]
+  },
+  {"tag":"winter break",
+  "patterns": ["When is winter break?", "Winter break", "How long until winter break?"],
+  "responses": ["Winter break is December 18th. Classes resume on January 23rd", "December 18th-January 12rd", "Starts on Dec 18th, ends on January 23rd."]
+  },
+  {"tag":"thanksgiving break",
+    "patterns": ["When is thanksgiving break?", "Thanksgiving break", "How long until thanksgiving break?"],
+    "responses": ["Thanksgiving break is November 23. Classes resume on the 28th", "November 23rd-28th", "Starts on Nov 23rd, ends on the 28th."]}
+
+
+
+
+]
+}

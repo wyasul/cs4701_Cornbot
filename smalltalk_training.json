@@ -1,0 +1,38 @@
+{"intents": [
+  {"tag": "greeting",
+   "patterns": ["Hi", "Hey", "Hello", "Good day", "What's up", "Yo", "Howdy"],
+   "responses": ["Hi, I'm CornBot!", "Hey. How can I help?", "Hello!"]
+  },
+  {"tag": "goodbye",
+    "patterns": ["Goodbye", "Bye", "See ya", "Later", "Adios"],
+    "responses": ["Ciao!", "Talk later!", "Have a nice day!", "Bye!"]
+   },
+  {"tag":"feeling",
+    "patterns": ["How are you?", "How you doing?", "How's it going?"],
+    "responses": []
+  },
+  {"tag":"hobby",
+    "patterns": [],
+    "responses": []
+  },
+  {"tag":"taste",
+    "patterns": [],
+    "responses": []
+  },
+  {"tag":"joke",
+    "patterns": [],
+    "responses": []
+  },
+  {"tag":"philosophy",
+    "patterns": [],
+    "responses": []
+  },
+  {"tag":"cornbot",
+    "patterns": [],
+    "responses": []
+  }
+
+
+
+]
+}
