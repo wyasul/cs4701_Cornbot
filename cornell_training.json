@@ -87,11 +87,82 @@
     "patterns": ["When is pre-enroll for seniors this fall?", "When is senior fall pre-enroll?"],
     "responses": ["Pre enroll is August 16th at 9:00am for seniors", "August 16th, 9am"]
   },
-
-
-
-
-
+  {"tag":"pre-enroll senior fall",
+    "patterns": ["When is pre-enroll for seniors this fall?", "When is senior fall pre-enroll?"],
+    "responses": ["Pre enroll is August 16th at 9:00am for seniors", "August 16th, 9am"]
+  },
+  {"tag":"dining hall hours 104west",
+    "patterns": ["When is 104West open?", "What are the hours for 104West?", "What times is 104West open?", "When does 104West open?"],
+    "responses": ["104West is open from 11-2 and from 5-7"]
+  },
+  {"tag":"dining hall hours becker",
+    "patterns": ["When is Becker open?", "What are the hours for Becker?", "What times is Becker open?", "When does Becker open?"],
+    "responses": ["Bekcer is open from 7-2 and from 6-8"]
+  },
+  {"tag":"dining hall hours cook",
+    "patterns": ["When is Cook open?", "What are the hours for Cook?", "What times is Cook open?", "When does Cook open?"],
+    "responses": ["Cook is open from 6-9"]
+  },
+  {"tag":"dining hall hours bethe",
+    "patterns": ["When is Bethe open?", "What are the hours for Bethe?", "What times is Bethe open?", "When does Bethe open?"],
+    "responses": ["Bethe is open from 7-2 and from 6-7:30"]
+  },
+  {"tag":"dining hall hours keeton",
+    "patterns": ["When is Keeton open?", "What are the hours for Keeton?", "What times is Keeton open?", "When does Keeton open?"],
+    "responses": ["Keeton is open from 6-8"]
+  },
+  {"tag":"dining hall hours morrison",
+    "patterns": ["When is Morrison open?", "What are the hours for Morrison?", "What times is Morrison open?", "When does Morrison open?"],
+    "responses": ["Morrison is open from 7-4:30 and from 5-8:30"]
+  },
+  {"tag":"dining hall hours okenshields",
+    "patterns": ["When is Okenshields open?", "What are the hours for Okenshields?", "What times is Okenshields open?", "When does Okenshields open?"],
+    "responses": ["Morrison is open from 11-2:30 and from 4:30-9"]
+  },
+  {"tag":"dining hall hours risley",
+    "patterns": ["When is Risley open?", "What are the hours for Risley?", "What times is Risley open?", "When does Risley open?"],
+    "responses": ["Risley is open from 11-2 and from 5-7"]
+  },
+  {"tag":"dining hall hours morrison",
+    "patterns": ["When is Rose open?", "What are the hours for Rose?", "What times is Rose open?", "When does Rose open?"],
+    "responses": ["Rose is open from 6-8"]
+  },
+  {"tag":"chimes",
+    "patterns": ["What songs played on the chimes last night?", "What songs played at the last chimes concert?", "What was the program for the last chimes concert?"],
+    "responses": ["The songs at the last chimes concert were 'Evermore', 'Hey, Soul Sister', and 'O Shenandoah'"]
+  },
+  {"tag":"building location goldwin smith",
+    "patterns": ["Where is Goldwin Smith Hall?", "Where's Goldwin Smith?", "Where can I find Goldwin Smith?"],
+    "responses": ["Goldwin Smith Hall is on the Arts Quad"]
+  },
+  {"tag":"building location comstock",
+    "patterns": ["Where is Comstock Hall?", "Where's Comstock?", "Where can I find Comstock?"],
+    "responses": ["Comstock Hall is on the Ag Quad"]
+  },
+  {"tag":"building location duffield",
+    "patterns": ["Where is Duffield Hall?", "Where's Duffield?", "Where can I find Duffield?"],
+    "responses": ["Duffield Hall is on the Engineering Quad"]
+  },
+  {"tag":"building location cornell health",
+    "patterns": ["Where is Cornell Health?", "Where's the Cornell Health building?", "Where can I find Cornell Health?"],
+    "responses": ["Cornell Health is on Ho Plaza"]
+  },
+  {"tag":"building location hollister",
+    "patterns": ["Where is Hollister Hall?", "Where's Hollister?", "Where can I find Hollister?"],
+    "responses": ["Hollister Hall is on the Engineering Quad"]
+  },
+  {"tag":"building location lincoln",
+    "patterns": ["Where is Lincoln Hall?", "Where's Lincoln?", "Where can I find Lincoln?"],
+    "responses": ["Lincoln Hall is on the Arts Quad"]
+  },
+  {"tag":"building location morrison",
+    "patterns": ["Where is Morrison Hall?", "Where's Morrison?", "Where can I find Morrison?"],
+    "responses": ["Morrison Hall is on North Campus"]
+  },
+  {"tag":"prelim schedule",
+    "patterns": ["When does prelim season start?", "When are prelims?", "When do prelims start?", "What is the prelim schedule?"],
+    "responses": ["It's always prelim season at Cornell."]
+  },
 
 ]
 }
