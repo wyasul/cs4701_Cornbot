@@ -162,7 +162,7 @@
   {"tag":"prelim schedule",
     "patterns": ["When does prelim season start?", "When are prelims?", "When do prelims start?", "What is the prelim schedule?"],
     "responses": ["It's always prelim season at Cornell."]
-  },
+  }
 
 ]
 }
