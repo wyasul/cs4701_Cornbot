@@ -36,7 +36,7 @@
     "responses": ["February break is February 25. Classes resume on March 1st", "February 25th-March 1st", "Starts on Feb 25th, ends on the 1st of March."]
   },
   {"tag":"last day spring",
-    "patterns": ["When is last day of spring classes?", "Last day of spring semester classes", "How long until the last day of classes this spring?"],
+    "patterns": ["When is last day of spribg classes?", "Last day of spring semester classes", "How long until the last day of classes this spring?"],
     "responses": ["Last day of spring semester classes is May 9.", "May 9.", "May 9, then finals!"]
   },
   {"tag":"last day fall",
@@ -87,6 +87,10 @@
     "patterns": ["When is pre-enroll for seniors this fall?", "When is senior fall pre-enroll?"],
     "responses": ["Pre enroll is August 16th at 9:00am for seniors", "August 16th, 9am"]
   },
+  {"tag":"pre-enroll senior fall",
+    "patterns": ["When is pre-enroll for seniors this fall?", "When is senior fall pre-enroll?"],
+    "responses": ["Pre enroll is August 16th at 9:00am for seniors", "August 16th, 9am"]
+  },
   {"tag":"dining hall hours 104west",
     "patterns": ["When is 104West open?", "What are the hours for 104West?", "What times is 104West open?", "When does 104West open?"],
     "responses": ["104West is open from 11-2 and from 5-7"]
@@ -113,15 +117,27 @@
   },
   {"tag":"dining hall hours okenshields",
     "patterns": ["When is Okenshields open?", "What are the hours for Okenshields?", "What times is Okenshields open?", "When does Okenshields open?"],
-    "responses": ["Okenshields is open from 11-2:30 and from 4:30-9"]
+    "responses": ["Morrison is open from 11-2:30 and from 4:30-9"]
   },
   {"tag":"dining hall hours risley",
     "patterns": ["When is Risley open?", "What are the hours for Risley?", "What times is Risley open?", "When does Risley open?"],
     "responses": ["Risley is open from 11-2 and from 5-7"]
   },
-  {"tag":"dining hall hours Rose",
+  {"tag":"dining hall hours morrison",
     "patterns": ["When is Rose open?", "What are the hours for Rose?", "What times is Rose open?", "When does Rose open?"],
     "responses": ["Rose is open from 6-8"]
+  },
+  {"tag":"Macs",
+    "patterns": ["What kind of food does Mac's cafe have?", "What does Mac's serve?", "Mac's Cafe food?", "Mac's Cafe?"],
+    "responses": ["Mac's Cafe serves pasta, sandwiches, pizza, salad, and all sorts of drinks, including coffee and smoothies."]
+  },
+  {"tag":"Terrace",
+    "patterns": ["What kind of food does Terrace have?", "What does Terrace serve?", "Terrace food?"],
+    "responses": ["Terrace has a burrito station, gyro station, salad station, and pho station"]
+  },
+  {"tag":"Trillium",
+    "patterns": ["What kind of food does Trillium have?", "What does Trillium serve?", "Trillium food?", "Trillium?"],
+    "responses": ["Trillium has has a burger station, quesadilla station, burrito station, wok station, salad station, pasta station, and a pizza station"]
   },
   {"tag":"chimes",
     "patterns": ["What songs played on the chimes last night?", "What songs played at the last chimes concert?", "What was the program for the last chimes concert?"],
@@ -172,7 +188,7 @@
     "responses": ["I'm doing well. How can I help you?", "It's going well. Thanks for asking.", "Good, may I help you?"]
   },
   {"tag":"hobby",
-    "patterns": ["What is your hobby?", "What do you do in your free time?", "What do you like to do?", "What's your favorite thing to do?"],
+    "patterns": ["What is your hobby?", "What do you do in your free time?", "What do you like to do?", "What's favorite thing to do?"],
     "responses": ["I like talking to you", "I enjoy providing quality information", "My hobby is talking to you"]
   },
   {"tag":"food",
@@ -202,6 +218,59 @@
   {"tag":"cornbot",
     "patterns": ["Who are you?", "What are you?", "What is your purpose?", "What do you do?"],
     "responses": ["I am Cornbot. An artificial intelligence chatbot service here to provide Cornellians quality information"]
+  },
+  {"tag":"Klarman",
+    "patterns": ["Where is Klarman Hall?", "Where is Klarman?", "Where can I find Klarman Hall?", "Klarman?"],
+    "responses": ["Klarman hall is between Rockefeller Hall and Goldwin Smith Hall on the west side of Feeney Way."]
+  },
+  {"tag":"Goldwin Smith",
+    "patterns": ["Where is Goldwin Smith Hall?", "Where is Goldwin Smith?", "Where can I find Goldwin Smith Hall?", "Goldwin Smith Hall?"],
+    "responses": ["Goldwin Smith Hall is technically connected to Klarman Hall. It is on the east side of the arts quad."]
+  },
+  {"tag":"Rockefeller",
+    "patterns": ["Where is Rockefeller Hall?", "Where is Rockefeller?", "Where can I find Rockefeller Hall?", "Rockefeller Hall?"],
+    "responses": ["Rockefeller Hall is on the east side of Feeney way, between the AD White House and the Physical Sciences building."]
+  },
+  {"tag":"Duffield",
+    "patterns": ["Where is Duffield Hall?", "Where is Duffield?", "Where can I find Duffield Hall?", "Duffield Hall?"],
+    "responses": ["Duffield Hall is on the intersection between Feeney Way and Campus Road, right next to the engineering quad. It is a dark place."]
+  },
+  {"tag":"Phillips",
+    "patterns": ["Where is Phillips Hall?", "Where is Phillips?", "Where can I find Phillips Hall?", "Phillips Hall?"],
+    "responses": ["Phillips Hall is connected to the eastern corner of Duffield hall, across the street from the Hoy Baseball Field"]
+  },
+  {"tag":"Rhodes",
+    "patterns": ["Where is Rhodes Hall?", "Where is Rhodes?", "Where can I find Rhodes Hall?", "Rhodes Hall?"],
+    "responses": ["Rhodes Hall is the long curvy building south of Hoy Baseball Field"]
+  },
+  {"tag":"Snee",
+    "patterns": ["Where is Snee Hall?", "Where is Snee?", "Where can I find Snee Hall?", "Snee Hall?"],
+    "responses": ["Snee Hall is the building across the street from the Law School, located on the corner of Hollister Drive and College Avenue"]
+  },
+  {"tag":"Olin",
+    "patterns": ["Where is Olin Hall?", "Where is Olin?", "Where can I find Olin Hall?", "Olin Hall?"],
+    "responses": ["Olin Hall is right across the walkway from Cornell Health, just south of the Cornell Store"]
+  },
+  {"tag":"Cornell Store",
+    "patterns": ["Where is the Cornell Store?", "Cornell Store?", "Where can I find the Cornell Store?", "The Cornell Store?"],
+    "responses": ["The Cornell Store is south of Sage Chapel and east of Willard Straight hall, right on Ho Plaza."]
+  },
+  {"tag":"Willard Straight",
+    "patterns": ["Where is Willard Straight Hall?", "Where is Willard Straight?", "Where can I find the Willard Straight Hall?", "Willard Straight Hall?"],
+    "responses": ["Willard Straight Hall is at the top of the southern part of the slope, just north of Cornell Health."]
+  },
+  {"tag":"Statler Hotel",
+    "patterns": ["Where is the Statler Hotel?", "Where is Statler Hotel?", "Where can I find the Statler Hotel?", "Statler Hotel?"],
+    "responses": ["The Statler Hotel is on central campus, just directly east of Barton Hall, south of Uris Hall and north of Phillips Hall."]
+  },
+  {"tag":"Uris",
+    "patterns": ["Where is Uris Hall?", "Where is Uris?", "Where can I find Uris Hall?", "Uris Hall?"],
+    "responses": ["Uris Hall is just north of the Statler Hotel"]
   }
+  
+  
+
+
+  
 ]
 }
