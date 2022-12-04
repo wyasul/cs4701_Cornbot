@@ -36,7 +36,7 @@
     "responses": ["February break is February 25. Classes resume on March 1st", "February 25th-March 1st", "Starts on Feb 25th, ends on the 1st of March."]
   },
   {"tag":"last day spring",
-    "patterns": ["When is last day of spribg classes?", "Last day of spring semester classes", "How long until the last day of classes this spring?"],
+    "patterns": ["When is last day of spring classes?", "Last day of spring semester classes", "How long until the last day of classes this spring?"],
     "responses": ["Last day of spring semester classes is May 9.", "May 9.", "May 9, then finals!"]
   },
   {"tag":"last day fall",
@@ -87,10 +87,6 @@
     "patterns": ["When is pre-enroll for seniors this fall?", "When is senior fall pre-enroll?"],
     "responses": ["Pre enroll is August 16th at 9:00am for seniors", "August 16th, 9am"]
   },
-  {"tag":"pre-enroll senior fall",
-    "patterns": ["When is pre-enroll for seniors this fall?", "When is senior fall pre-enroll?"],
-    "responses": ["Pre enroll is August 16th at 9:00am for seniors", "August 16th, 9am"]
-  },
   {"tag":"dining hall hours 104west",
     "patterns": ["When is 104West open?", "What are the hours for 104West?", "What times is 104West open?", "When does 104West open?"],
     "responses": ["104West is open from 11-2 and from 5-7"]
@@ -117,13 +113,13 @@
   },
   {"tag":"dining hall hours okenshields",
     "patterns": ["When is Okenshields open?", "What are the hours for Okenshields?", "What times is Okenshields open?", "When does Okenshields open?"],
-    "responses": ["Morrison is open from 11-2:30 and from 4:30-9"]
+    "responses": ["Okenshields is open from 11-2:30 and from 4:30-9"]
   },
   {"tag":"dining hall hours risley",
     "patterns": ["When is Risley open?", "What are the hours for Risley?", "What times is Risley open?", "When does Risley open?"],
     "responses": ["Risley is open from 11-2 and from 5-7"]
   },
-  {"tag":"dining hall hours morrison",
+  {"tag":"dining hall hours Rose",
     "patterns": ["When is Rose open?", "What are the hours for Rose?", "What times is Rose open?", "When does Rose open?"],
     "responses": ["Rose is open from 6-8"]
   },
@@ -176,7 +172,7 @@
     "responses": ["I'm doing well. How can I help you?", "It's going well. Thanks for asking.", "Good, may I help you?"]
   },
   {"tag":"hobby",
-    "patterns": ["What is your hobby?", "What do you do in your free time?", "What do you like to do?", "What's favorite thing to do?"],
+    "patterns": ["What is your hobby?", "What do you do in your free time?", "What do you like to do?", "What's your favorite thing to do?"],
     "responses": ["I like talking to you", "I enjoy providing quality information", "My hobby is talking to you"]
   },
   {"tag":"food",

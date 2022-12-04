@@ -1,0 +1,156 @@
+{"intents": [
+  {"tag":"add fall",
+    "patterns": ["When is fall add deadline?", "When is the fall sem add deadline?", "When is the last day to add a course for fall?"]
+  },
+  {"tag":"drop fall",
+    "patterns": ["When is the fall drop deadline?", "What is the fall drop deadline?", "When is the last day to drop a course for fall?"]
+  },
+  {"tag":"add spring",
+    "patterns": ["When is the add deadline for spring?", "What is the spring add deadline?", "When is the last day to add a course for spring?"]
+  },
+  {"tag":"drop spring",
+    "patterns": ["When is the spring drop deadline?", "What is the spring drop deadline?", "When is the last day to drop a course for spring?"]
+  },
+  {"tag":"fall break",
+    "patterns": ["What date is fall break?", "How long is left until fall break?", "Fall break?"]
+  },
+  {"tag":"winter break",
+  "patterns": ["What date is winter break?", "How long is left until winter break?", "Winter break?"]
+},
+  {"tag":"thanksgiving break",
+    "patterns": ["What date is thanksgiving break?", "How long is left until thanksgiving break?", "Thanksgiving break?"]
+  },
+  {"tag":"spring break",
+    "patterns": ["What date is spring break?", "How long is left until spring break?", "Spring break?"]
+  },
+  {"tag":"february break",
+    "patterns": ["What date is february break?", "How long is left until february break?", "February break?"]
+  },
+  {"tag":"last day spring",
+    "patterns": ["When is last day of spring semester?", "Last day of spring semester", "How long until last day of classes this spring?"]
+  },
+  {"tag":"last day fall",
+    "patterns": ["When is last day of fall semester?", "Last day of fall semester", "How long until last day of classes this fall?"]
+  },
+  {"tag":"fall exam period",
+    "patterns": ["When is fall exam period?", "When are fall exams?", "How long until fall exams?"]
+  },
+  {"tag":"fall study period",
+    "patterns": ["When is fall study period?", "When are fall reading period?", "How long until fall reading period?"]
+  },
+  {"tag":"december degree date",
+    "patterns": ["When is the winter degree date?", "Winter degree date", "How long until Winter degree date?"]
+  },
+  {"tag":"spring exam period",
+    "patterns": ["When is spring exam period?", "When are spring exams?", "How long until spring exams?"]
+  },
+  {"tag":"spring study period",
+    "patterns": ["When is spring study period?", "When are spring reading period?", "How long until spring reading period?"]
+  },
+  {"tag":"winter session",
+    "patterns": ["When is the winter session?", "When is winter session?", "What are the dates of winter session?"]
+  },
+  {"tag":"summer session",
+    "patterns": ["When is the summer session?", "When is summer session?", "What are the dates of summer session?"]
+  },
+  {"tag":"pre-enroll freshmen fall",
+    "patterns": ["When is freshman pre-enroll for this fall?", "When is fall pre-enroll for freshman?"]
+  },
+  {"tag":"pre-enroll sophomore fall",
+    "patterns": ["When is sophomore pre-enroll for this fall?", "When is fall pre-enroll for sophomore?"]
+  },
+  {"tag":"pre-enroll junior fall",
+    "patterns": ["When is junior pre-enroll for this fall?", "When is fall pre-enroll for junior?"]
+  },
+  {"tag":"pre-enroll senior fall",
+    "patterns": ["When is senior pre-enroll for this fall?", "When is fall pre-enroll for senior?"]
+  },
+  {"tag":"dining hall hours 104west",
+    "patterns": ["What times are 104West open?", "What are the open hours for 104West?", "When can I go to 104West?", "104West hours?"]
+  },
+  {"tag":"dining hall hours becker",
+    "patterns": ["What times are Becker open?", "What are the open hours for Becker?", "When can I go to Becker?", "Becker hours?"]
+  },
+  {"tag":"dining hall hours cook",
+    "patterns": ["What times are Cook open?", "What are the open hours for Cook?", "When can I go to Cook?", "Cook hours?"]
+  },
+  {"tag":"dining hall hours bethe",
+    "patterns": ["What times are Bethe open?", "What are the open hours for Bethe?", "When can I go to Bethe?", "Bethe hours?"]
+  },
+  {"tag":"dining hall hours keeton",
+    "patterns": ["What times are Keeton open?", "What are the open hours for Keeton?", "When can I go to Keeton?", "Keeton hours?"]
+  },
+  {"tag":"dining hall hours morrison",
+    "patterns": ["What times are Morrison open?", "What are the open hours for Morrison?", "When can I go to Morrison?", "Morrison hours?"]
+  },
+  {"tag":"dining hall hours okenshields",
+    "patterns": ["What times are Okenshields open?", "What are the open hours for Okenshields?", "When can I go to Okenshields?", "Okenshields hours?"]
+  },
+  {"tag":"dining hall hours risley",
+    "patterns": ["What times are Risley open?", "What are the open hours for Risley?", "When can I go to Risley?", "Risley hours?"]
+  },
+  {"tag":"dining hall hours rose",
+    "patterns": ["When is Rose open?", "What are the hours for Rose?", "What times is Rose open?", "When does Rose open?"]
+  },
+  {"tag":"chimes",
+    "patterns": ["What songs played on the chimes yesterday?", "What songs played at yesterday's chimes concert?", "Recent chimes concert"]
+  },
+  {"tag":"building location goldwin smith",
+    "patterns": ["Where is Goldwin Smith?", "Where's Goldwin Smith Hall?", "What's Goldwin Smith's location?"]
+  },
+  {"tag":"building location comstock",
+    "patterns": ["Where is Comstock?", "Where's Comstock Hall?", "What's Comstock's location?"]
+  },
+  {"tag":"building location duffield",
+    "patterns": ["Where is Duffield?", "Where's Duffield Hall?", "What's Duffield's location?"]
+  },
+  {"tag":"building location cornell health",
+    "patterns": ["Where is Cornell Health?", "Cornell Health location", "What's Cornell Health located?"]
+  },
+  {"tag":"building location hollister",
+    "patterns": ["Where is Hollister?", "Where's Hollister Hall?", "What's Hollister's location?"]
+  },
+  {"tag":"building location lincoln",
+    "patterns": ["Where is Lincoln?", "Where's Lincoln Hall?", "What's Lincoln's location?"]
+  },
+  {"tag":"building location morrison",
+    "patterns": ["Where is Morrison?", "Where's Morrison Dining?", "What's Morrison's location?"]
+  },
+  {"tag":"prelim schedule",
+    "patterns": ["When are prelim?", "When are prelim exams?", "When do exams start?", "What's the prelim schedule?"]
+  },
+  {"tag": "greeting",
+   "patterns": ["Hola", "Hiiii", "Hihi", "Heyy", "What's going"]
+ },
+  {"tag": "goodbye",
+    "patterns": ["Good bye", "Byeee", "Talk to you later", "See you"]
+  },
+  {"tag":"feeling",
+    "patterns": ["How're you", "How are things"]
+  },
+  {"tag":"hobby",
+    "patterns": ["What do you do for fun?", "Any passtime activities?", "What do you like doing outside of work?"]
+  },
+  {"tag":"food",
+    "patterns": ["What's your favorite food?", "What your favorite cuisine?", "Tell me your favorite dish"]
+  },
+  {"tag":"music",
+    "patterns": ["Favorite artist?", "Favorite song?", "Favorite band?"]
+  },
+  {"tag":"books",
+    "patterns": ["Favorite author?", "Favorite book?", "Favorite book series?"]
+  },
+  {"tag":"joke",
+    "patterns": ["Got any jokes?", "Tell me a funny story", "Make me laugh"]
+  },
+  {"tag":"compliment",
+    "patterns": ["You're not half bad", "You're a good chatbot", "You're smart", "Good job", "That was helpful"]
+  },
+  {"tag":"gratitude",
+    "patterns": ["Thnx", "Appreciaet it", "Thank you so much"]
+  },
+  {"tag":"cornbot",
+    "patterns": ["Who you?", "What is this?", "What can you do?", "Introduce yourself"]
+  }
+]
+}
