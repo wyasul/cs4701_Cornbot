@@ -83,8 +83,8 @@
   {"tag":"dining hall hours morrison",
     "patterns": ["Morrison open?", "Is Morrison open?", "Hours for Morrison"]
   },
-  {"tag":"dining hall hours oakenshield",
-    "patterns": ["Oakenshield open?", "Is Oakenshield open?", "Hours for Oakenshield"]
+  {"tag":"dining hall hours okenshields",
+    "patterns": ["Okenshields open?", "Is Okenshields open?", "Hours for Oakenshields"]
   },
   {"tag":"dining hall hours risley",
     "patterns": ["Risley open?", "Is Risley open?", "Hours for Risley"]
