@@ -123,7 +123,7 @@
     "patterns": ["When is Risley open?", "What are the hours for Risley?", "What times is Risley open?", "When does Risley open?"],
     "responses": ["Risley is open from 11-2 and from 5-7"]
   },
-  {"tag":"dining hall hours Rose",
+  {"tag":"dining hall hours rose",
     "patterns": ["When is Rose open?", "What are the hours for Rose?", "What times is Rose open?", "When does Rose open?"],
     "responses": ["Rose is open from 6-8"]
   },
