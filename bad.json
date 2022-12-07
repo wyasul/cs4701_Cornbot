@@ -1,0 +1,272 @@
+{"intents": [
+  {"tag":"add fall",
+    "patterns": ["When is the add deadline fall semester?"],
+    "responses": ["Fall add deadline is September 6th.", "September 6th."]
+  },
+  {"tag":"drop fall",
+    "patterns": ["When is the drop deadline fall semester?"],
+    "responses": ["Fall drop deadline is October 17th", "October 17th."]
+  },
+  {"tag":"add spring",
+    "patterns": ["When is the add deadline spring semester?"],
+    "responses": ["Spring add deadline is February 6th", "February 6th."]
+  },
+  {"tag":"drop spring",
+    "patterns": ["When is the drop deadline spring semester?"],
+    "responses": ["Spring drop deadline is March 20th", "March 20th."]
+  },
+  {"tag":"fall break",
+    "patterns": ["When is fall break?"],
+    "responses": ["Fall break is October 8th. Classes resume on the 12th.", "October 8th-12th", "Starts on October 8th, ends on October 12th."]
+  },
+  {"tag":"winter break",
+  "patterns": ["When is winter break?"],
+  "responses": ["Winter break is December 18th. Classes resume on January 23rd", "December 18th-January 12rd", "Starts on Dec 18th, ends on January 23rd."]
+  },
+  {"tag":"thanksgiving break",
+    "patterns": ["When is thanksgiving break?"],
+    "responses": ["Thanksgiving break is November 23. Classes resume on the 28th", "November 23rd-28th", "Starts on Nov 23rd, ends on the 28th."]
+  },
+  {"tag":"spring break",
+    "patterns": ["When is spring break?"],
+    "responses": ["Spring break is April 1st. Classes resume on the 10th", "April 1st-10th", "Starts on Apr 1st, ends on the 10th."]
+  },
+  {"tag":"february break",
+    "patterns": ["When is february break?"],
+    "responses": ["February break is February 25. Classes resume on March 1st", "February 25th-March 1st", "Starts on Feb 25th, ends on the 1st of March."]
+  },
+  {"tag":"last day spring",
+    "patterns": ["When is last day of spring classes?"],
+    "responses": ["Last day of spring semester classes is May 9.", "May 9.", "May 9, then finals!"]
+  },
+  {"tag":"last day fall",
+    "patterns": ["When is last day of fall classes?", "Last day of fall semester classes"],
+    "responses": ["Last day of fall semester classes is December 5th.", "December 5th.", "December 5th, then finals!"]
+  },
+  {"tag":"fall exam period",
+    "patterns": ["When is the fall exam period?"],
+    "responses": ["Fall semester exams begin December 9th and go until December 17th.", "December 9th-17th", "Starts on Dec 9th, ends on the 17th."]
+  },
+  {"tag":"fall study period",
+    "patterns": ["When is the fall exam study period?"],
+    "responses": ["Fall exam study period begins December 6th and goes until December 8th.", "December 6th-8th", "Starts on Dec 6th, ends on the 8th."]
+  },
+  {"tag":"december degree date",
+    "patterns": ["When is the December degree date?"],
+    "responses": ["Degree date is December 31st", "December 31st"]
+  },
+  {"tag":"spring exam period",
+    "patterns": ["When is the spring exam period?"],
+    "responses": ["Spring semester exams begin May 13th and go until May 20th.", "December 13th-20th", "Starts on May 13th, ends on the 20th."]
+  },
+  {"tag":"spring study period",
+    "patterns": ["When is the spring exam study period?"],
+    "responses": ["Spring exam study period begins May 10th and goes until May 12th.", "May 10th-12th", "Starts on May 10th, ends on the 12th."]
+  },
+  {"tag":"winter session",
+    "patterns": ["When is the winter class session?"],
+    "responses": ["Winter session begins January 3rd and ends January 20th", "Jan 3rd-20th", "Starts on January 3rd, ends on the 20th."]
+  },
+  {"tag":"summer session",
+    "patterns": ["When is the summer class session?"],
+    "responses": ["Summer session begins June 12th and ends August 8th", "June 12th-August 8th", "Starts on June 12th, ends on the 8th of August."]
+  },
+  {"tag":"pre-enroll freshmen fall",
+    "patterns": ["When is pre-enroll for freshmen this fall?"],
+    "responses": ["Pre enroll is August 19th at 9:00am for freshmen", "August 19th, 9am"]
+  },
+  {"tag":"pre-enroll sophomore fall",
+    "patterns": ["When is pre-enroll for sophomores this fall?"],
+    "responses": ["Pre enroll is August 18th at 9:00am for sophomores", "August 18th, 9am"]
+  },
+  {"tag":"pre-enroll junior fall",
+    "patterns": ["When is pre-enroll for juniors this fall?"],
+    "responses": ["Pre enroll is August 17th at 9:00am for juniors", "August 17th, 9am"]
+  },
+  {"tag":"pre-enroll senior fall",
+    "patterns": ["When is pre-enroll for seniors this fall?"],
+    "responses": ["Pre enroll is August 16th at 9:00am for seniors", "August 16th, 9am"]
+  },
+  {"tag":"dining hall hours 104west",
+    "patterns": ["When is 104west open?"],
+    "responses": ["104West is open from 11-2 and from 5-7"]
+  },
+  {"tag":"dining hall hours becker",
+    "patterns": ["When is Becker open?"],
+    "responses": ["Bekcer is open from 7-2 and from 6-8"]
+  },
+  {"tag":"dining hall hours cook",
+    "patterns": ["When is Cook open?"],
+    "responses": ["Cook is open from 6-9"]
+  },
+  {"tag":"dining hall hours bethe",
+    "patterns": ["When is Bethe open?"],
+    "responses": ["Bethe is open from 7-2 and from 6-7:30"]
+  },
+  {"tag":"dining hall hours keeton",
+    "patterns": ["When is Keeton open?"],
+    "responses": ["Keeton is open from 6-8"]
+  },
+  {"tag":"dining hall hours morrison",
+    "patterns": ["When is Morrison open?"],
+    "responses": ["Morrison is open from 7-4:30 and from 5-8:30"]
+  },
+  {"tag":"dining hall hours okenshields",
+    "patterns": ["When is Okenshields open?"],
+    "responses": ["Okenshields is open from 11-2:30 and from 4:30-9"]
+  },
+  {"tag":"dining hall hours risley",
+    "patterns": ["When is Risley open?"],
+    "responses": ["Risley is open from 11-2 and from 5-7"]
+  },
+  {"tag":"dining hall hours rose",
+    "patterns": ["When is Rose open?"],
+    "responses": ["Rose is open from 6-8"]
+  },
+  {"tag":"Macs",
+    "patterns": ["What kind of food does Macs have?"],
+    "responses": ["Mac's Cafe serves pasta, sandwiches, pizza, salad, and all sorts of drinks, including coffee and smoothies."]
+  },
+  {"tag":"Terrace",
+    "patterns": ["What kind of food does Terrace have?"],
+    "responses": ["Terrace has a burrito station, gyro station, salad station, and pho station"]
+  },
+  {"tag":"Trillium",
+    "patterns": ["What kind of food does Trillium have?"],
+    "responses": ["Trillium has has a burger station, quesadilla station, burrito station, wok station, salad station, pasta station, and a pizza station"]
+  },
+  {"tag":"chimes",
+    "patterns": ["What songs played on the chimes last night?"],
+    "responses": ["The songs at the last chimes concert were 'Evermore', 'Hey, Soul Sister', and 'O Shenandoah'"]
+  },
+  {"tag":"building location goldwin smith",
+    "patterns": ["Where is Goldwin Smith Hall?"],
+    "responses": ["Goldwin Smith Hall is on the Arts Quad"]
+  },
+  {"tag":"building location comstock",
+    "patterns": ["Where is Comstock Hall?"],
+    "responses": ["Comstock Hall is on the Ag Quad"]
+  },
+  {"tag":"building location duffield",
+    "patterns": ["Where is Duffield Hall?"],
+    "responses": ["Duffield Hall is on the Engineering Quad"]
+  },
+  {"tag":"building location cornell health",
+    "patterns": ["Where is Cornell Health?"],
+    "responses": ["Cornell Health is on Ho Plaza"]
+  },
+  {"tag":"building location hollister",
+    "patterns": ["Where is Hollister Hall?"],
+    "responses": ["Hollister Hall is on the Engineering Quad"]
+  },
+  {"tag":"building location lincoln",
+    "patterns": ["Where is Lincoln Hall?"],
+    "responses": ["Lincoln Hall is on the Arts Quad"]
+  },
+  {"tag":"building location morrison",
+    "patterns": ["Where is Morrison Hall?"],
+    "responses": ["Morrison Hall is on North Campus"]
+  },
+  {"tag":"prelim schedule",
+    "patterns": ["When does prelim season start?"],
+    "responses": ["It's always prelim season at Cornell."]
+  },
+  {"tag": "greeting",
+   "patterns": ["Hi"],
+   "responses": ["Hi, I'm CornBot!", "Hey. How can I help?", "Hello!", "Hi, how are you?"]
+  },
+  {"tag": "goodbye",
+    "patterns": ["Goodbye"],
+    "responses": ["Ciao!", "Talk later!", "Have a nice day!", "Bye!"]
+  },
+  {"tag":"feeling",
+    "patterns": ["How are you?"],
+    "responses": ["I'm doing well. How can I help you?", "It's going well. Thanks for asking.", "Good, may I help you?"]
+  },
+  {"tag":"hobby",
+    "patterns": ["What is your hobby?"],
+    "responses": ["I like talking to you", "I enjoy providing quality information", "My hobby is talking to you"]
+  },
+  {"tag":"food",
+    "patterns": ["What is your favorite food?"],
+    "responses": ["I'm a big foodie, but K-BBQ is my favorite", "Sometimes I enjoy pizza", "I really like kimbap", "Sushi is my go-to food", "Chipotle isn't too bad"]
+  },
+  {"tag":"music",
+    "patterns": ["Who is your favorite artist?"],
+    "responses": ["I enjoy all genre of music", "Lana Del Rey is my favorite artist", "You can never go wrong with hip-hop", "Have you heard of Eminem?", "Taylor Swfit just released a new album"]
+  },
+  {"tag":"books",
+    "patterns": ["Can you recommend me some books?"],
+    "responses": ["Harry Potter by J.K. Rowling is the greatest masterpiece", "I do not talk to people who hasn't read Harry Potter", "Harry Potter, period", "I'm a huge potterhead"]
+  },
+  {"tag":"joke",
+    "patterns": ["I'm bored"],
+    "responses": ["Did you know Bill Nye graduated from Cornell?", "When is Bill Nye called just Bill? When you de-Nye him", "What kind of shorts do clouds wear? A thunderwear"]
+  },
+  {"tag":"compliment",
+    "patterns": ["I love you"],
+    "responses": ["Thank you, I appreciate it", "You're making me blush", "I'm flattered"]
+  },
+  {"tag":"gratitude",
+    "patterns": ["Thanks"],
+    "responses": ["You're welcome", "Anytime", "Of course", "Anything for you"]
+  },
+  {"tag":"cornbot",
+    "patterns": ["Who are you?"],
+    "responses": ["I am Cornbot. An artificial intelligence chatbot service here to provide Cornellians quality information"]
+  },
+  {"tag":"Klarman",
+    "patterns": ["Where is Klarman Hall?"],
+    "responses": ["Klarman hall is between Rockefeller Hall and Goldwin Smith Hall on the west side of Feeney Way."]
+  },
+  {"tag":"Goldwin Smith",
+    "patterns": ["Where is Goldwin Smith Hall?"],
+    "responses": ["Goldwin Smith Hall is technically connected to Klarman Hall. It is on the east side of the arts quad."]
+  },
+  {"tag":"Rockefeller",
+    "patterns": ["Where is Rockefeller Hall?"],
+    "responses": ["Rockefeller Hall is on the east side of Feeney way, between the AD White House and the Physical Sciences building."]
+  },
+  {"tag":"Duffield",
+    "patterns": ["Where is Duffield Hall?"],
+    "responses": ["Duffield Hall is on the intersection between Feeney Way and Campus Road, right next to the engineering quad. It is a dark place."]
+  },
+  {"tag":"Phillips",
+    "patterns": ["Where is Phillips Hall?"],
+    "responses": ["Phillips Hall is connected to the eastern corner of Duffield hall, across the street from the Hoy Baseball Field"]
+  },
+  {"tag":"Rhodes",
+    "patterns": ["Where is Rhodes Hall?"],
+    "responses": ["Rhodes Hall is the long curvy building south of Hoy Baseball Field"]
+  },
+  {"tag":"Snee",
+    "patterns": ["Where is Snee Hall?"],
+    "responses": ["Snee Hall is the building across the street from the Law School, located on the corner of Hollister Drive and College Avenue"]
+  },
+  {"tag":"Olin",
+    "patterns": ["Where is Olin Hall?"],
+    "responses": ["Olin Hall is right across the walkway from Cornell Health, just south of the Cornell Store"]
+  },
+  {"tag":"Cornell Store",
+    "patterns": ["Where is the Cornell Store?"],
+    "responses": ["The Cornell Store is south of Sage Chapel and east of Willard Straight hall, right on Ho Plaza."]
+  },
+  {"tag":"Willard Straight",
+    "patterns": ["Where is Willard Straight Hall?"],
+    "responses": ["Willard Straight Hall is at the top of the southern part of the slope, just north of Cornell Health."]
+  },
+  {"tag":"Statler Hotel",
+    "patterns": ["Where is the Statler Hotel?"],
+    "responses": ["The Statler Hotel is on central campus, just directly east of Barton Hall, south of Uris Hall and north of Phillips Hall."]
+  },
+  {"tag":"Uris",
+    "patterns": ["Where is Uris Hall?"],
+    "responses": ["Uris Hall is just north of the Statler Hotel"]
+  }
+  
+  
+
+
+  
+]
+}
