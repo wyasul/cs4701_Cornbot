@@ -187,7 +187,40 @@
   },
   {"tag":"Klarman",
     "patterns": ["Location of Klarman Hall?", "How do I find Klarman Hall?", "Donde está Klarman Hall?"]
+  },
+  {"tag":"building location goldwin smith",
+    "patterns": ["Where to find Goldwin Smith?", "Locate Goldwin Smith Hall", "Help me find Goldwin Smith?"]
+  },
+  {"tag":"building location comstock",
+    "patterns": ["Where to find Comstock Hall?", "Locate Comstock Hall", "Help me find Comstock Hall?"]
+  },
+  {"tag":"building location duffield",
+    "patterns": ["Where to find Duffield Hall?", "Locate Duffield Hall", "Help me find Duffield Hall?"]
+  },
+  {"tag":"building location cornell health",
+    "patterns": ["Where to find cornell health?", "Locate cornell health", "Help me find cornell health?"]
+  },
+  {"tag":"building location hollister",
+    "patterns": ["Where to find Hollister Hall?", "Locate Hollister", "Help me find Hollister Hall?"]
+  },
+  {"tag":"building location lincoln",
+    "patterns": ["Where to find Lincoln Hall?", "Locate Lincoln", "Help me find Lincoln Hall?"]
+  },
+  {"tag":"building location morrison",
+    "patterns": ["Where to find Morrison Hall?", "Locate Morrison", "Help me find Morrison Hall?"]
+  },
+  {"tag":"Trillium",
+    "patterns": ["What kind of food does Trillium serve?", "Trillium menu??", "What is there to eat at Trillium?"]
+  },
+  {"tag":"Macs",
+    "patterns": ["What kind of food does Macs serve?", "Macs menu??", "What is there to eat at Macs?"]
+  },
+  {"tag":"Terrace",
+    "patterns": ["What kind of food does Terrace serve?", "Terrace menu??", "What is there to eat at Terrace?"]
   }
+  
+
+
 
 ]
 }
