@@ -212,7 +212,7 @@
     "responses": ["Thank you, I appreciate it", "You're making me blush", "I'm flattered"]
   },
   {"tag":"gratitude",
-    "patterns": ["Thanks", "Thank you", "I appreciaet it", "Gracias"],
+    "patterns": ["Thanks", "Thank you", "I appreciate it", "Gracias"],
     "responses": ["You're welcome", "Anytime", "Of course", "Anything for you"]
   },
   {"tag":"cornbot",
@@ -220,51 +220,63 @@
     "responses": ["I am Cornbot. An artificial intelligence chatbot service here to provide Cornellians quality information"]
   },
   {"tag":"Klarman",
-    "patterns": ["Where is Klarman Hall?", "Where is Klarman?", "Where can I find Klarman Hall?", "Klarman?"],
+    "patterns": ["Where is Klarman Hall?", "Where is Klarman?", "Where can I find Klarman Hall?", "Klarman?",
+       "Guide me to Klarman Hall","Where could I locate Klarman Hall?","How far away is Klarman Hall?"],
     "responses": ["Klarman hall is between Rockefeller Hall and Goldwin Smith Hall on the west side of Feeney Way."]
   },
   {"tag":"Goldwin Smith",
-    "patterns": ["Where is Goldwin Smith Hall?", "Where is Goldwin Smith?", "Where can I find Goldwin Smith Hall?", "Goldwin Smith Hall?"],
+    "patterns": ["Where is Goldwin Smith Hall?", "Where is Goldwin Smith?", "Where can I find Goldwin Smith Hall?", "Goldwin Smith Hall?",
+      "Guide me to Goldwin Smith Hall","Where could I locate Goldwin Smith Hall?","How far away is Goldwin Smith Hall?"],
     "responses": ["Goldwin Smith Hall is technically connected to Klarman Hall. It is on the east side of the arts quad."]
   },
   {"tag":"Rockefeller",
-    "patterns": ["Where is Rockefeller Hall?", "Where is Rockefeller?", "Where can I find Rockefeller Hall?", "Rockefeller Hall?"],
+    "patterns": ["Where is Rockefeller Hall?", "Where is Rockefeller?", "Where can I find Rockefeller Hall?", "Rockefeller Hall?",
+      "Guide me to Rockefeller Hall","Where could I locate Rockefeller Hall?","How far away is Rockefeller Hall?"],
     "responses": ["Rockefeller Hall is on the east side of Feeney way, between the AD White House and the Physical Sciences building."]
   },
   {"tag":"Duffield",
-    "patterns": ["Where is Duffield Hall?", "Where is Duffield?", "Where can I find Duffield Hall?", "Duffield Hall?"],
+    "patterns": ["Where is Duffield Hall?", "Where is Duffield?", "Where can I find Duffield Hall?", "Duffield Hall?",
+      "Guide me to Duffield Hall","Where could I locate Duffield Hall?","How far away is Duffield Hall?"],
     "responses": ["Duffield Hall is on the intersection between Feeney Way and Campus Road, right next to the engineering quad. It is a dark place."]
   },
   {"tag":"Phillips",
-    "patterns": ["Where is Phillips Hall?", "Where is Phillips?", "Where can I find Phillips Hall?", "Phillips Hall?"],
+    "patterns": ["Where is Phillips Hall?", "Where is Phillips?", "Where can I find Phillips Hall?", "Phillips Hall?",
+      "Guide me to Phillips Hall","Where could I locate Phillips Hall?","How far away is Phillips Hall?"],
     "responses": ["Phillips Hall is connected to the eastern corner of Duffield hall, across the street from the Hoy Baseball Field"]
   },
   {"tag":"Rhodes",
-    "patterns": ["Where is Rhodes Hall?", "Where is Rhodes?", "Where can I find Rhodes Hall?", "Rhodes Hall?"],
+    "patterns": ["Where is Rhodes Hall?", "Where is Rhodes?", "Where can I find Rhodes Hall?", "Rhodes Hall?",
+      "Guide me to Rhodes Hall","Where could I locate Rhodes Hall?","How far away is Rhodes Hall?"],
     "responses": ["Rhodes Hall is the long curvy building south of Hoy Baseball Field"]
   },
   {"tag":"Snee",
-    "patterns": ["Where is Snee Hall?", "Where is Snee?", "Where can I find Snee Hall?", "Snee Hall?"],
+    "patterns": ["Where is Snee Hall?", "Where is Snee?", "Where can I find Snee Hall?", "Snee Hall?",
+      "Guide me to Snee Hall","Where could I locate Snee Hall?","How far away is Snee Hall?"],
     "responses": ["Snee Hall is the building across the street from the Law School, located on the corner of Hollister Drive and College Avenue"]
   },
   {"tag":"Olin",
-    "patterns": ["Where is Olin Hall?", "Where is Olin?", "Where can I find Olin Hall?", "Olin Hall?"],
+    "patterns": ["Where is Olin Hall?", "Where is Olin?", "Where can I find Olin Hall?", "Olin Hall?",
+      "Guide me to Olin Hall","Where could I locate Olin Hall?","How far away is Olin Hall?"],
     "responses": ["Olin Hall is right across the walkway from Cornell Health, just south of the Cornell Store"]
   },
   {"tag":"Cornell Store",
-    "patterns": ["Where is the Cornell Store?", "Cornell Store?", "Where can I find the Cornell Store?", "The Cornell Store?"],
+    "patterns": ["Where is the Cornell Store?", "Cornell Store?", "Where can I find the Cornell Store?", "The Cornell Store?",
+      "Guide me to the Cornell Store","Where could I locate the Cornell Store?","How far away is the Cornell Store?"],
     "responses": ["The Cornell Store is south of Sage Chapel and east of Willard Straight hall, right on Ho Plaza."]
   },
   {"tag":"Willard Straight",
-    "patterns": ["Where is Willard Straight Hall?", "Where is Willard Straight?", "Where can I find the Willard Straight Hall?", "Willard Straight Hall?"],
+    "patterns": ["Where is Willard Straight Hall?", "Where is Willard Straight?", "Where can I find the Willard Straight Hall?", "Willard Straight Hall?",
+      "Guide me to Willard Straight Hall","Where could I locate Willard Straight Hall?","How far away is Willard Straight Hall?"],
     "responses": ["Willard Straight Hall is at the top of the southern part of the slope, just north of Cornell Health."]
   },
   {"tag":"Statler Hotel",
-    "patterns": ["Where is the Statler Hotel?", "Where is Statler Hotel?", "Where can I find the Statler Hotel?", "Statler Hotel?"],
+    "patterns": ["Where is the Statler Hotel?", "Where is Statler Hotel?", "Where can I find the Statler Hotel?", "Statler Hotel?", 
+      "Guide me to the Statler Hotel","Where could I locate the Statler Hotel?","How far away is Statler Hotel?"],
     "responses": ["The Statler Hotel is on central campus, just directly east of Barton Hall, south of Uris Hall and north of Phillips Hall."]
   },
   {"tag":"Uris",
-    "patterns": ["Where is Uris Hall?", "Where is Uris?", "Where can I find Uris Hall?", "Uris Hall?"],
+    "patterns": ["Where is Uris Hall?", "Where is Uris?", "Where can I find Uris Hall?", "Uris Hall?", "Uris?", "How far away is Uris Hall?",
+      "Guide me to Uris Hall","Where could I locate Uris Hall?","How far away is Uris Hall?"],
     "responses": ["Uris Hall is just north of the Statler Hotel"]
   }
   

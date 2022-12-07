@@ -147,10 +147,46 @@
     "patterns": ["You're not half bad", "You're a good chatbot", "You're smart", "Good job", "That was helpful"]
   },
   {"tag":"gratitude",
-    "patterns": ["Thnx", "Appreciaet it", "Thank you so much"]
+    "patterns": ["Thnx", "Appreciate it", "Thank you so much"]
   },
   {"tag":"cornbot",
     "patterns": ["Who you?", "What is this?", "What can you do?", "Introduce yourself"]
+  },
+  {"tag":"Uris",
+    "patterns": ["I'm looking for Uris Hall", "Location of Uris Hall?", "Where on campus is Uris Hall?"]
+  },
+  {"tag":"Statler Hotel",
+    "patterns": ["I'm looking for Statler Hotel", "Location of Statler Hotel?", "Where on campus is Statler Hotel?"]
+  },
+  {"tag":"Willard Straight",
+    "patterns": ["I'm looking for Willard Straight", "Location of Willard Straight?", "Where on campus is Willard Straight?"]
+  },
+  {"tag":"Cornell Store",
+    "patterns": ["I'm looking for Cornell Store", "Location of Cornell Store?", "Where on campus is Cornell Store?"]
+  },
+  {"tag":"Olin",
+    "patterns": ["I'm looking for Olin Hall", "Location of Olin Hall?", "Where on campus is Olin Hall?"]
+  },
+  {"tag":"Snee",
+    "patterns": ["I'm looking for Snee Hall", "Location of Snee Hall?", "Where on campus is Snee Hall?"]
+  },
+  {"tag":"Rhodes",
+    "patterns": ["I'm looking for Rhodes Hall", "Location of Rhodes Hall?", "Where on campus is Rhodes Hall?"]
+  },
+  {"tag":"Phillips",
+    "patterns": ["I'm looking for Phillips Hall", "Location of Phillips Hall?", "Where on campus is Phillips Hall?"]
+  },
+  {"tag":"Duffield",
+    "patterns": ["I'm looking for Duffield Hall", "Location of Duffield Hall?", "Where on campus is Duffield Hall?"]
+  },
+  {"tag":"Rockefeller",
+    "patterns": ["I'm looking for Rockefeller Hall", "Location of Rockefeller Hall?", "Where on campus is Rockefeller Hall?"]
+  },
+  {"tag":"Goldwin Smith",
+    "patterns": ["I'm looking for Goldwin Smith Hall", "Location of Goldwin Smith Hall?", "Where on campus is Goldwin Smith Hall?"]
+  },
+  {"tag":"Klarman",
+    "patterns": ["I'm looking for Klarman Hall", "Location of Klarman Hall?", "Where on campus is Klarman Hall?"]
   }
 ]
 }

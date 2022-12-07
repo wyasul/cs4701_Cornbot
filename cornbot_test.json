@@ -151,6 +151,43 @@
   },
   {"tag":"cornbot",
     "patterns": ["Will you take over the world?", "Tell me more about you", "I want to know about you", "Cornbot?", "What's Cornbot", "Explain yourself"]
+  },
+  {"tag":"Uris",
+    "patterns": ["Location of Uris Hall?", "How do I find Uris Hall?", "Donde está Uris Hall?"]
+  },
+  {"tag":"Statler Hotel",
+    "patterns": ["Location of Statler Hotel?", "How do I find The Statler Hotel?", "Donde está The Statler Hotel?"]
+  },
+  {"tag":"Willard Straight",
+    "patterns": ["Location of Willard Straight?", "How do I find Willard Straight?", "Donde está Willard Straight?"]
+  },
+  {"tag":"Cornell Store",
+    "patterns": ["Location of Cornell Store?", "How do I find Cornell Store?", "Donde está Cornell Store?"]
+  },
+  {"tag":"Olin",
+    "patterns": ["Location of Olin Hall?", "How do I find Olin Hall?", "Donde está Olin Hall?"]
+  },
+  {"tag":"Snee",
+    "patterns": ["Location of Snee Hall?", "How do I find Snee Hall?", "Donde está Snee Hall?"]
+  },
+  {"tag":"Rhodes",
+    "patterns": ["Location of Rhodes Hall?", "How do I find Rhodes Hall?", "Donde está Rhodes Hall?"]
+  },
+  {"tag":"Phillips",
+    "patterns": ["Location of Phillips Hall?", "How do I find Phillips Hall?", "Donde está Phillips Hall?"]
+  },
+  {"tag":"Duffield",
+    "patterns": ["Location of Duffield Hall?", "How do I find Duffield Hall?", "Donde está Duffield Hall?"]
+  },
+  {"tag":"Rockefeller",
+    "patterns": ["Location of Rockefeller Hall?", "How do I find Rockefeller Hall?", "Donde está Rockefeller Hall?"]
+  },
+  {"tag":"Goldwin Smith",
+    "patterns": ["Location of Goldwin Smith Hall?", "How do I find Goldwin Smith Hall?", "Donde está Goldwin Smith Hall?"]
+  },
+  {"tag":"Klarman",
+    "patterns": ["Location of Klarman Hall?", "How do I find Klarman Hall?", "Donde está Klarman Hall?"]
   }
+
 ]
 }
