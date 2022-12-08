@@ -95,15 +95,6 @@
   {"tag":"chimes",
     "patterns": ["What songs played on yesterday chimes?", "Recent chimes concert program", "Recent chimes songs"]
   },
-  {"tag":"building location goldwin smith",
-    "patterns": ["Tell location of Goldwin Smith?", "I want to know where Goldwin Smith Hall is", "Goldwin Smith?"]
-  },
-  {"tag":"building location comstock",
-    "patterns": ["Tell location of comstock?", "I want to know where comstock Hall is", "comstock?"]
-  },
-  {"tag":"building location duffield",
-    "patterns": ["Tell location of duffield?", "I want to know where duffield Hall is", "duffield?"]
-  },
   {"tag":"building location cornell health",
     "patterns": ["Tell location of cornell health?", "I want to know where cornell health is", "cornell health?"]
   },
@@ -188,14 +179,8 @@
   {"tag":"Klarman",
     "patterns": ["Location of Klarman Hall?", "How do I find Klarman Hall?", "Donde está Klarman Hall?"]
   },
-  {"tag":"building location goldwin smith",
-    "patterns": ["Where to find Goldwin Smith?", "Locate Goldwin Smith Hall", "Help me find Goldwin Smith?"]
-  },
   {"tag":"building location comstock",
     "patterns": ["Where to find Comstock Hall?", "Locate Comstock Hall", "Help me find Comstock Hall?"]
-  },
-  {"tag":"building location duffield",
-    "patterns": ["Where to find Duffield Hall?", "Locate Duffield Hall", "Help me find Duffield Hall?"]
   },
   {"tag":"building location cornell health",
     "patterns": ["Where to find cornell health?", "Locate cornell health", "Help me find cornell health?"]

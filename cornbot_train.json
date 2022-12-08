@@ -101,7 +101,7 @@
     "patterns": ["When is Becker open?", "What are the hours for Becker?", "What times is Becker open?", "When does Becker open?", "Becker hours?","Becker dining hours?",
       "What are the Becker dining hours?","When is Becker serving food?","What are the Becker hours?","Is Becker open?","Is Becker dining hall open?", "When does Becker dining hall open?",
     "What are the hours for Becker dining hall?", "WHen is Becker dining hall serving food?"],
-    "responses": ["Bekcer is open from 7-2 and from 6-8"]
+    "responses": ["Becker is open from 7-2 and from 6-8"]
   },
   {"tag":"dining hall hours cook",
     "patterns": ["When is Cook open?", "What are the hours for Cook?", "What times is Cook open?", "When does Cook open?", "Cook hours?","Cook dining hours?",
@@ -165,20 +165,10 @@
     "Chimes program?","What are they playing on the chimes?"],
     "responses": ["The songs at the last chimes concert were 'Evermore', 'Hey, Soul Sister', and 'O Shenandoah'"]
   },
-  {"tag":"building location goldwin smith",
-    "patterns": ["Where is Goldwin Smith Hall?", "Where's Goldwin Smith?", "Where can I find Goldwin Smith?","How do I locate Goldwin Smith?","Where do I find Goldwin Smith?",
-      "Location of Goldwin Smith Hall?", "How do I find Goldwin Smith Hall?","Is Goldwin Smith close?","Directions to Goldwin Smith Hall","Directions to Goldwin Smith","Where do I find Goldwin Smith Hall?"],
-    "responses": ["Goldwin Smith Hall is on the Arts Quad"]
-  },
   {"tag":"building location comstock",
     "patterns": ["Where is Comstock Hall?", "Where's Comstock?", "Where can I find Comstock?","How do I locate Comstock?","Where do I find Comstock?",
       "Location of Comstock Hall?", "How do I find Comstock Hall?","Is Comstock close?","Directions to Comstock Hall","Directions to Comstock","Where do I find Comstock Hall?"],
     "responses": ["Comstock Hall is on the Ag Quad"]
-  },
-  {"tag":"building location duffield",
-    "patterns": ["Where is Duffield Hall?", "Where's Duffield?", "Where can I find Duffield?","How do I locate Duffield?","Where do I find Duffield?",
-      "Location of Duffield Hall?", "How do I find Duffield Hall?","Is Duffield close?","Directions to Duffield Hall","Directions to Duffield","Where do I find Duffield Hall?"],
-    "responses": ["Duffield Hall is on the Engineering Quad"]
   },
   {"tag":"building location cornell health",
     "patterns": ["Where is Cornell Health?", "Where's Cornell Health?", "Where can I find Cornell Health?","How do I locate Cornell Health?","Where do I find Cornell Health?",

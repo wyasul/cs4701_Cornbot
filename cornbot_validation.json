@@ -95,14 +95,8 @@
   {"tag":"chimes",
     "patterns": ["What songs played on the chimes yesterday?", "What songs played at yesterday's chimes concert?", "Recent chimes concert"]
   },
-  {"tag":"building location goldwin smith",
-    "patterns": ["Where is Goldwin Smith?", "Where's Goldwin Smith Hall?", "What's Goldwin Smith's location?"]
-  },
   {"tag":"building location comstock",
     "patterns": ["Where is Comstock?", "Where's Comstock Hall?", "What's Comstock's location?"]
-  },
-  {"tag":"building location duffield",
-    "patterns": ["Where is Duffield?", "Where's Duffield Hall?", "What's Duffield's location?"]
   },
   {"tag":"building location cornell health",
     "patterns": ["Where is Cornell Health?", "Cornell Health location", "What's Cornell Health located?"]
@@ -188,17 +182,8 @@
   {"tag":"Klarman",
     "patterns": ["I'm looking for Klarman Hall", "Location of Klarman Hall?", "Where on campus is Klarman Hall?"]
   },
-  {"tag":"building location goldwin smith",
-    "patterns": ["Where do I find Goldwin Smith?", "Goldwin Smith Hall location?", "Help me to find Goldwin Smith?"]
-  },
   {"tag":"building location comstock",
     "patterns": ["Where do I find Comstock?", "Comstock Hall location?", "Help me to find Comstock?"]
-  },
-  {"tag":"building location duffield",
-    "patterns": ["Where do I find Duffield?", "Duffield Hall location?", "Help me to find Duffield?"]
-  },
-  {"tag":"building location cornell health",
-    "patterns": ["Where do I find cornell health?", "cornell health location?", "Help me to find cornell health?"]
   },
   {"tag":"building location cornell health",
     "patterns": ["Where do I find cornell health?", "cornell health location?", "Help me to find cornell health?"]
