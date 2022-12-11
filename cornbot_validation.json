@@ -185,6 +185,9 @@
   {"tag":"building location comstock",
     "patterns": ["Where do I find Comstock?", "Comstock Hall location?", "Help me to find Comstock?"]
   },
+  {"tag":"building location goldwin smith",
+    "patterns": ["Where do I find goldwin smith?", "goldwin smith Hall location?", "Help me to find goldwin smith?"]
+  },
   {"tag":"building location cornell health",
     "patterns": ["Where do I find cornell health?", "cornell health location?", "Help me to find cornell health?"]
   },

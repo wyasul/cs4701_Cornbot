@@ -182,6 +182,9 @@
   {"tag":"building location comstock",
     "patterns": ["Where to find Comstock Hall?", "Locate Comstock Hall", "Help me find Comstock Hall?"]
   },
+  {"tag":"building location goldwin smith",
+    "patterns": ["Where to find goldwin smith Hall?", "Locate goldwin smith Hall", "Help me find goldwin smith Hall?"]
+  },
   {"tag":"building location cornell health",
     "patterns": ["Where to find cornell health?", "Locate cornell health", "Help me find cornell health?"]
   },
